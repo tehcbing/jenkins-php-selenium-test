@@ -1,4 +1,4 @@
-package com.mycompany.app;
+httpackage com.mycompany.app;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
@@ -23,7 +23,7 @@ public class AppTest
 {
 	WebDriver driver; 
 	WebDriverWait wait; 
-	String url = "http://localhost";
+	String url = "116.15.123.159";
 	String validEmail = "user@example.com";
 	String validPassword = "password1234";
 	String invalidEmail = "none@example.com";
